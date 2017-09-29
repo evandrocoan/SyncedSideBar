@@ -18,5 +18,5 @@
 	 * By default, when new windows are opened the plugin will switch to
 	 * all available views so the sidebar is expanded properly.
 	 */
-	"reveal-all-tabs": true
+	"reveal-all-tabs": false
 }
